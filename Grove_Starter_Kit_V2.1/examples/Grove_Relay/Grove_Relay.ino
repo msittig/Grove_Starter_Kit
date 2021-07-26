@@ -7,7 +7,7 @@
 
 // Define the pins to which the button and relay are attached.
 const int buttonPin = 3;
-const int relayPin =  8;
+const int relayPin =  7;
 
 void setup()
 {
